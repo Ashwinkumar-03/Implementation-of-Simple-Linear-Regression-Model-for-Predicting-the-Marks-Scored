@@ -7,8 +7,7 @@ To write a program to predict the marks scored by a student using the simple lin
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-
+## Algorithm:
 1. Import pandas, numpy and sklearn
    
 2.Calculate the values for the training data set
